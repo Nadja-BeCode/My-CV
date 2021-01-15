@@ -1,0 +1,23 @@
+
+
+
+body{
+   background-color: rgb(218, 161, 140);
+
+     
+}
+
+
+
+.intro { 
+    display: grid;
+
+    color: black;
+    border-style: double;
+    border-radius: 10px;
+    background-color: rgba(148, 112, 189, 0.932);
+    opacity: 30px;
+    float: right;
+}
+
+header h1
